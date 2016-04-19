@@ -8,4 +8,4 @@ Web application:
 https://github.com/rybredd/LGBTSafeSpacesWebapp
 
 Android application:
-https://github.com/Vauxwell/LGBTSafeSpaces
+https://github.com/nick9914/LGBT-SafeSpacesApp
